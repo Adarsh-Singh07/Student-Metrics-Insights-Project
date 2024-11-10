@@ -1,0 +1,120 @@
+Name,Gender,Age,Screen_Time,Social_Media_Usage,Sleep_Duration,Stress_index,Attendance,Happiness_Index,CGPA,Total
+Arohi,Female,25,4,2,5,3,76,2,9.2,9
+Kapil Shrivastava,Male,19,6,2,7,2,98,3,7.3,13
+Shuvam keshri,Male,23,6,4,6,3,97,4,7.8,12
+Aditya Ansh,Male,19,1.75,1,7,2,95,1,8.6,8.75
+Ritesh Kumar,Male,25,4,2,7,1,90,1,8.5,11
+Rakesh Rana,Male,23,15,10,5,4,89,5,7,20
+Tushar Tyagi,Male,22,4,0.75,8,2,87,4,8,12
+Yaman Singh,Male,24,8,3,9,1,87,1,7,17
+Genn,Male,22,4.5,2,7,2,87,2,7.3,11.5
+Furqaan,Male,25,14,5,5,4,85,4,7,19
+Sumit Kumar,Male,20,3,1,7,1,85,5,8.5,10
+Adarsh Singh,Male,20,6,5,6,1,81,1,8.35,12
+VISHAL,Male,24,5,3.5,7,4,79,5,8.96,12
+Rinku gupta,Male,25,6.5,2.5,7,5,77,4,7.5,13.5
+P.Ranjth Kumar,Male,19,10,2,7,5,76,2,7.1,17
+Anshul Sangar,Male,23,8,5,6,1,72,4,8.41,14
+Ritik Singh Chauhan,Male,20,5,4,6.5,5,70,2,7,11.5
+Deepak Lingala,Male,23,6,2,6,2,64,2,5.12,12
+Singh Harsh Satyendra,Male,19,15,3,5,4,29,4,7.9,20
+Sarthak,Male,23,3.5,0.5,7,3,81,2,7.2,10.5
+Abhay Dhadwal,Male,23,2.5,1,5.5,2,78,1,7.8,8
+Rishabh Sharma,Male,23,10,4,6,5,76,4,8.2,16
+Ajay Sharma,Male,19,5,1,7,2,58,2,8.12,12
+Saurabh,Male,23,5,1,7,2,57,1,6.5,12
+Ram Krishna Pandey,Male,19,2,0.3,6,2,90,5,7.92,8
+Kaushik pathak,Male,24,2,1,7,3,80,4,8.02,9
+Sujit kumar sahu,Male,22,5,4,6,1,70,5,7.29,11
+Amit,Male,24,4,1,5,4,70,5,3.53,9
+Irfan hassan mir,Male,20,5.5,1,6,5,100,5,7.5,11.5
+Mukesh,Male,19,3,1,7,5,79,1,8.5,10
+Mogambo,Male,25,3.5,1.5,4,2,8.7,1,8.7,7.5
+Akshay Kumar,Male,19,7.5,4.5,7,2,77,4,6.69,14.5
+Ulfat nabi,Male,25,6.3,2,7,4,100,5,7.5,13.3
+Arjumand,Male,25,12.5,10,8,4,95,5,9,20.5
+Suhail ahmed lone,Male,25,10,5,9,5,100,2,7,19
+Samosa,Male,20,4,2,6,3,80,1,7,10
+Mohit Nijhawan,Male,21,6,2,8,2,99.9,1,8,14
+Rajat Saini,Male,23,3,2,9,4,90,5,9,12
+MOHMAD IQBAL MIR,Male,20,5,3,10,4,11,2,7.8,15
+Ritik Singh,Male,20,5,2,7,1,75,2,7.5,12
+Priyanshu,Male,23,6.5,2.5,6,4,70,1,7.61,12.5
+Tawseef wani,Male,20,6,3,7,2,60,3,7,13
+Aashish Kumar,Male,23,2,0.5,6.5,4,98,1,7.9,8.5
+Aamir,Male,21,6,5,10,1,50,2,8,16
+Ayush Dubey,Male,22,4,2,9,2,50,5,4.71,13
+Satyam,Male,24,9,3.5,7.5,2,85,2,6.5,16.5
+Kartikey srivastava,Male,25,3,1,6,5,65,5,6.55,9
+Vishwadeep Singh,Male,23,4,4,8,3,88,5,8.4,12
+Ranjit Singh,Male,21,1.5,1,7,2,65,2,7,8.5
+Abhiroop,Male,24,3,1.5,5.5,2,75,3,7.1,8.5
+Syed mohd mahvish,Male,23,8,2.5,7,5,60,1,8.2,15
+Vishal Kumar Tiwari,Male,19,12,3,8,5,77,5,8.47,20
+Ahsan ul Haq zargar,Male,19,10,1,8,3,100,3,9.2,18
+Wani solihah,Male,21,8,2,6,3,70,4,7,14
+Sagar Rai,Male,22,5,3.5,8,4,78,5,6.5,13
+Aanish jan,Male,19,8,4,7,5,71,2,6.7,15
+Aashish,Male,20,6,0.5,4,4,70,5,7.6,10
+Sheel nidhi tripathi,Male,21,7,2,5.5,4,70,3,6.1,12.5
+Vishal Roy,Male,25,7,2,6,2,72,4,6.1,13
+Anubhav Singh,Male,23,4,2,5,1,81,2,7.5,9
+Jojin M Renjith,Male,22,6,5,7,1,88,2,5.13,13
+Krishna Manek,Male,20,7,1,4,1,83,5,7.79,11
+Aman kumar,Male,21,8,4,6.5,2,77,5,7.92,14.5
+Abhishek Chaudhary,Male,25,7,0.5,6,5,84,4,7.5,13
+Bansh Vatsa,Male,24,4,1,7,3,80,4,8.1,11
+Yashendra Singh,Male,19,8,1.5,6.5,1,83,5,8.02,14.5
+Yash,Male,21,9,10,2,1,75,3,9.9,11
+Ajay singh,Male,21,3,1.5,5,1,83,5,8.2,8
+ADITYA,Male,23,5,2,6,2,82,4,7.02,11
+Aniket kumar. Mahto,Male,24,6,0.5,6,2,59,4,4,12
+Mukul Bhardwaj,Male,23,10,2,7.5,5,100,2,8.68,17.5
+ayush singh,Male,25,6,1,5,2,75,2,7.8,11
+Aditya Verma,Male,20,2,1,8,1,55,4,6.96,10
+Mohamed,Male,23,6,3,5,3,72,5,4.4,11
+Kamana,Female,20,3,2,5,3,70,5,8.2,8
+Sia,Female,24,5,0,6,2,60,4,6.98,11
+Reena,Female,22,7,2,8,4,52,3,7,15
+Kate,Female,25,3,2,7,5,82,2,7.7,10
+Rathnapriya,Female,20,5,1.5,2.5,2,78,4,8.44,7.5
+Varnika Singh,Female,22,3,1,9,1,50,3,5.8,12
+Kriti,Female,21,9,3,5.5,5,82,1,7.8,14.5
+Mehrooza,Female,25,6,2.5,7,2,75,2,7.6,13
+Rafiya,Female,24,5,4,8,5,80,3,8.9,13
+Shruti,Female,25,11,12,11,1,95,1,8,22
+Trisha,Female,22,6,3,7,5,98,5,9.5,13
+Abhilasha,Female,23,4,3,6,2,76,4,6,10
+Adrika,Female,22,4,1,6,1,73,3,8.55,10
+Ananya,Female,23,9,1.5,6.5,5,42,5,4.92,15.5
+Kashish Gupta,Female,19,15,5,8,5,89,3,7,23
+Saba,Female,25,3.5,1.5,5.5,1,80,4,8,9
+Bhumika,Female,24,5,2,5,1,70,5,8.6,10
+Jessika,Female,22,4,3,8,4,90,2,8,12
+Tulika,Female,20,4,2,7,1,82,2,8,11
+Farhat naz,Female,24,3,1.5,7.5,5,70,5,7,10.5
+Kalpana,Female,25,8,3,7,2,71,1,8.5,15
+Disha Singh,Female,23,4,0.4,6.5,3,96,2,8.46,10.5
+Muskan,Female,21,4.5,1.5,6,2,92,3,7.5,10.5
+Sathwika,Female,19,2.5,1,7.5,5,100,5,8.5,10
+Vaishanavi,Female,21,7,5,7,4,90,1,8.13,14
+Tanvi,Female,21,16,4,5,2,83,3,8.15,21
+Tanisha,Female,25,2,1,7,2,77,5,7.2,9
+Purva,Female,24,4,1.25,6.5,2,93,2,8,10.5
+Anshika Kumari,Female,24,3,1,7,2,69,5,8.14,10
+Khushi,Female,20,7,0.75,7,2,70,3,7.3,14
+Archie Sinha,Female,24,4,4,6,4,82,2,8.53,10
+Pallavi,Female,20,2,2,6,5,85,4,7.33,8
+Apoorva,Female,20,1,0.5,7,1,90,5,9.1,8
+Palak,Female,23,8,8,5,4,67,4,7.01,13
+Vishakha,Female,25,5,2,8,5,78,5,8,13
+Mansi,Female,24,3,2,7,1,73,5,6.68,10
+Akriti,Female,19,2,0,7,1,98,1,9.43,9
+Shruti,Female,21,4,1,6.5,4,83,2,7.4,10.5
+Sanjana,Female,19,8,1,6,3,84,3,8.22,14
+Shama,Female,19,3,2,5.5,5,95,5,7.9,8.5
+Kiara,Female,20,4.5,3.4,7.5,1,43,2,6.6,12
+Sana Jayed,Female,20,4,1,6,4,85,1,8,10
+Aditie Bhatia,Female,22,7,3.5,8,2,74,2,5,15
+Urvi Najaf,Female,25,3,2,7,4,87,2,7.9,10
+Kritika,Female,19,4,2,6,2,72,3,5.9,10
