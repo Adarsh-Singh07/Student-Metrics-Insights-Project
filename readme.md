@@ -96,3 +96,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Authors
 
 Adarsh Singh
+https://gamma.app/docs/Student-Metrics-and-Academic-Performance-1b84x8duez6g145
