@@ -1,0 +1,81 @@
+Generate a complete, ready-to-run, multi-module Java Spring Boot microservices project for an On-Demand Car Wash System with the following requirements:
+
+1. General Architecture
+Use Java 17 or above.
+Use Maven as the build tool with a parent POM and separate modules for each service.
+Each service should be a standalone Spring Boot application, runnable in Spring Tool Suite (STS).
+Modules: eureka-server, api-gateway, user-service, car-service, wash-service, booking-service, payment-service, notification-service.
+All services must register with Eureka for service discovery.
+All inter-service communication must use Spring Cloud OpenFeign clients.
+All services must use MySQL (host: localhost, user: root, password: ujjwal123).
+Use application.properties files for all configuration (not YAML).
+2. API Gateway
+Use Spring Cloud Gateway on port 8080.
+All requests (including Swagger UI and OpenAPI docs) must be accessible via port 8080.
+JWT authentication is required, but keep security at a reasonable college-project level (not enterprise).
+JWT secret must be the same across all services and the gateway.
+3. User Service
+Register, login, and manage users.
+Roles: USER, ADMIN, WASHER.
+Admin can view/add/remove users and washers.
+Admin can view all bookings and payments.
+Washer can view only their assigned bookings.
+Use Lombok for DTOs and entities.
+Use JPA/Hibernate with MySQL.
+Add JUnit tests for all main endpoints and logic.
+4. Car Service
+CRUD operations for cars.
+Each car is linked to a user.
+Endpoints for searching cars by user, car type, and registration number.
+Endpoint for listing all cars and for updating car status (e.g., available, in-wash, completed).
+5. Wash Service
+CRUD for wash packages/types.
+Endpoints for searching wash packages by price, duration, or type.
+Endpoint for listing all available wash packages.
+6. Booking Service
+Users can create bookings for car washes.
+Bookings are linked to users, cars, and wash packages.
+Admin can view and delete any booking.
+Washer can view bookings assigned to them.
+Endpoints for booking status updates and for listing bookings by user, washer, or status.
+7. Payment Service
+Integrate with Stripe API for real payment processing (test mode is fine).
+Endpoints for creating payments, viewing payment status, retrying failed payments, and refunding.
+Only admin can view all payments; users can view only their own payments and retry or refund their payments.
+Send payment notifications to the notification service.
+Add JUnit tests for all main endpoints and logic.
+8. Notification Service
+Send email notifications using Gmail SMTP (JavaMailSender, no external notification provider).
+Endpoints to view all sent and failed notifications, retry failed notifications, and resend any notification.
+Store notification status (sent/failed) in the database.
+Add JUnit tests for notification logic.
+9. Security
+JWT-based authentication and authorization.
+Use a single shared JWT secret for all services and the gateway.
+Use Spring Security with role-based access control.
+Use @PreAuthorize for method-level security.
+Only admin can access admin endpoints; users can access only their own data.
+10. Documentation & Best Practices
+Use OpenAPI/Swagger for API documentation in each service, accessible via the gateway.
+Use DTOs for all API requests/responses.
+Use proper exception handling and validation.
+Use .gitignore to exclude IDE and build files.
+Provide full, working application.properties for each service with correct MySQL, Stripe, Gmail, and Eureka config.
+No Docker required.
+11. Testing
+Add JUnit tests for all main endpoints and business logic in each service.
+Ensure code is compatible with SonarLint for code quality checks.
+12. README and Documentation
+Provide a detailed README file including:
+Project overview and user stories.
+Use case diagram, DFD, ER diagram, and class diagram (all diagrams in .mmd [Mermaid] format).
+Setup and run instructions for STS and MySQL.
+Example API requests and responses.
+How to run tests and check code quality with SonarLint.
+Project Output:
+
+Provide the full Maven multi-module project structure with all source code, configuration files (application.properties), and documentation.
+Each service should be in its own folder/module.
+Include a comprehensive README as described above.
+The project must be ready to run and submit, with no manual configuration needed except MySQL and Gmail/Stripe credentials.
+Copy and paste this prompt into ChatGPT, Copilot, or your preferred code generation tool to get a complete, modern, and maintainable microservices project ready for submission!
